@@ -1,1 +1,1 @@
-# terraform-multi-cloud-infra
+Production-ready Infrastructure as Code project using Terraform for AWS, GCP, and hybrid deployments. Includes reusable modules, CI/CD automation with GitHub Actions, and scalable architecture patterns.
